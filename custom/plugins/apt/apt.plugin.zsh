@@ -22,7 +22,7 @@ alias agar="ag autoremove"
 alias agch="ag changelog"
 
 # apt-cache [show-pkg|stats|showsrc|dump|dumpavail|unmet|show|search|depends|rdepends|pkgnames|dotty|xvcg|policy|madison]
-alias acsp="ac show-pkg"
+alias acsp="ac showpkg"
 alias acst="ac stats"
 alias acss="ac showsrc"
 alias acd="ac dump"
